@@ -1,0 +1,9 @@
+# Node.js Modules
+node_modules/
+
+# Compiled output
+dist/
+
+# Other system files
+.DS_Store
+Thumbs.db
